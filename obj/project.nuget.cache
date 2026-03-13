@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xt9xP+T66qg=",
+  "dgSpecHash": "sqbzLCurLTE=",
   "success": true,
   "projectFilePath": "C:\\Users\\ptoma\\OneDrive\\Desktop\\sneaky_server\\DriveWebhooks\\DriveWebhooks.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "C:\\Users\\ptoma\\.nuget\\packages\\google.apis.drive.v3\\1.73.0.4068\\google.apis.drive.v3.1.73.0.4068.nupkg.sha512",
     "C:\\Users\\ptoma\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
     "C:\\Users\\ptoma\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\ptoma\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+    "C:\\Users\\ptoma\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
+    "C:\\Users\\ptoma\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.14\\microsoft.netcore.app.host.linux-x64.9.0.14.nupkg.sha512"
   ],
   "logs": []
 }

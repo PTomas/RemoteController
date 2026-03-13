@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FpMpWr4N5uoPUvggxZajAfyU9CPI/kfPnapf5uRFsFE=",
+  "Source": "DriveWebhooks",
+  "BasePath": "_content/DriveWebhooks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

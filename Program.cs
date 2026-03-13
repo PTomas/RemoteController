@@ -72,7 +72,7 @@ using (var scope = app.Services.CreateScope())
     {
         Id = Guid.NewGuid().ToString(),
         Type = "web_hook",
-        Address = "https://remotecontroler-chaaabbachg0cjgq.southeastasia-01.azurewebsites.net/drive/webhook"
+        Address = "https://drive-webhooks.livelypond-68f97ce4.westus2.azurecontainerapps.io/drive/webhook"
     };
 
     var watchRequest = driveService.Changes.Watch(channel, tokenValue);

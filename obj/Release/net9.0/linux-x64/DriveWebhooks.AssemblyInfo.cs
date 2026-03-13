@@ -12,7 +12,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("0c725ed8-3df6-4f33-b16a-7b68e1efc9a3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriveWebhooks")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42b55c52b9dc38c74a8fc09a36fd2bc493ff5414")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriveWebhooks")]
