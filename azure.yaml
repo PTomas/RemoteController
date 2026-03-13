@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+
+name: drive-webhooks
+metadata:
+    template: azd-init@1.23.8
+services:
+    drive-webhooks:
+        project: .
+        host: containerapp
+        language: dotnet
+resources:
+    drive-webhooks:
+        type: host.containerapp
+        port: 8080
