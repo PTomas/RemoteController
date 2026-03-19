@@ -13,7 +13,6 @@ public class DriveWebhookController : Controller
     private readonly DriveService _driveService;
     private static string _savedPageToken;
     private const string FolderId = "1X5JgNmHmWOQm7XwKhqDarLgtF34Ov0n0";
-
     private static long _lastMessageNumber = 0;
     private readonly IWebHostEnvironment _env;
 
@@ -21,6 +20,12 @@ public class DriveWebhookController : Controller
     {
         _driveService = driveService;
         _env = env;
+    }
+
+    [HttpGet("/")]
+    public IActionResult Home()
+    {
+        return Ok("Server is running");
     }
 
     public IActionResult Index()
@@ -41,11 +46,14 @@ public class DriveWebhookController : Controller
     {
         if (!Request.Headers.ContainsKey("X-Goog-Resource-State"))
         return Ok();
+
+        foreach (var header in Request.Headers)
+        {
+            Console.WriteLine($"{header.Key}: {header.Value}");
+        }
+        
         try
         {
-
-            if (!Request.Headers.ContainsKey("X-Goog-Message-Number"))
-                return Ok();
 
             var messageNumber = Request.Headers["X-Goog-Message-Number"].ToString();
 

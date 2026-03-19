@@ -6,9 +6,9 @@ metadata:
 services:
     drive-webhooks:
         project: .
-        host: containerapp
+        host: appservice
         language: dotnet
+        resourceName: DriveWebhookService
 resources:
     drive-webhooks:
-        type: host.containerapp
-        port: 8080
+        type: host.webapp

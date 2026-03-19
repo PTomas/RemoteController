@@ -37,3 +37,9 @@ C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net9.0\r
 C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net9.0\DriveWebhooks.pdb
 C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net9.0\DriveWebhooks.genruntimeconfig.cache
 C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net9.0\ref\DriveWebhooks.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\bin\Release\net9.0\publish\web.config
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\bin\Release\net9.0\publish\appsettings.json
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\bin\Release\net9.0\publish\DriveWebhooks.deps.json
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\bin\Release\net9.0\publish\DriveWebhooks.runtimeconfig.json
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\bin\Release\net9.0\publish\DriveWebhooks.staticwebassets.endpoints.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriveWebhooks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42b55c52b9dc38c74a8fc09a36fd2bc493ff5414")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54aabed45f92e0b60ef4de2ef4c28d4831e6f805")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriveWebhooks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DriveWebhooks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\DriveWebhooks.exe
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\appsettings.Development.json
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\appsettings.json
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\DriveWebhooks.dll
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\DriveWebhooks.deps.json
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\DriveWebhooks.runtimeconfig.json
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\DriveWebhooks.pdb
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\Google.Apis.dll
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\Google.Apis.Auth.dll
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\Google.Apis.Core.dll
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\Google.Apis.Drive.v3.dll
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\Newtonsoft.Json.dll
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\System.CodeDom.dll
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\System.Management.dll
+C:\Users\ptoma\AppData\Local\Temp\azd4119781454\runtimes\win\lib\net7.0\System.Management.dll

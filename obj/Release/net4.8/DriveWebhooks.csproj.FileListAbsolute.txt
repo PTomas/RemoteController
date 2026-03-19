@@ -1,0 +1,6 @@
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net4.8\DriveWebhooks.csproj.AssemblyReference.cache
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net4.8\DriveWebhooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net4.8\DriveWebhooks.AssemblyInfoInputs.cache
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net4.8\DriveWebhooks.AssemblyInfo.cs
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net4.8\DriveWebhooks.csproj.CoreCompileInputs.cache
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\obj\Release\net4.8\DriveWebhooks.sourcelink.json

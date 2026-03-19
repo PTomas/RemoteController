@@ -1,0 +1,15 @@
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\DriveWebhooks.exe
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\appsettings.Development.json
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\appsettings.json
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\DriveWebhooks.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\DriveWebhooks.deps.json
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\DriveWebhooks.runtimeconfig.json
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\DriveWebhooks.pdb
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\Google.Apis.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\Google.Apis.Auth.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\Google.Apis.Core.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\Google.Apis.Drive.v3.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\Newtonsoft.Json.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\System.CodeDom.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\System.Management.dll
+C:\Users\ptoma\OneDrive\Desktop\sneaky_server\DriveWebhooks\publish\runtimes\win\lib\net7.0\System.Management.dll
